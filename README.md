@@ -1,7 +1,7 @@
 <h1 align="center"> Arbitrage Finder </h1> <br>
 
 <p align="center">
-  This microservice is responsible for finding the maximum amount of arbritage bets possible in a game. For it it will receive a list of odds from several bookmakers that combined with each other using a specific formula can become sure bets.
+  This microservice is responsible for finding the maximum amount of arbritage bets possible in a game. For this it receives a list of odds from several bookmakers, combines the odds and finds the profit range using a specific formula.
 </p>
 
 ## Table of Contents
